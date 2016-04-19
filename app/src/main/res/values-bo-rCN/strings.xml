@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">音频混合精简版</string>
+
+    <string name="app_name_play">Play Time! (Audio Mashup)</string>
+    <string name="About">Audio Mashup is intended to interact with multiple
+        sound files to create your own beats or even just to use as a standard soundboard.\n\n
+        Snipper: Use this to create smaller clips of original sound files in your current possession. Currently supports WAV and MP3.\n\n
+        Edit Mode: Here is where you can edit the playback options for each button. Through the menu, you can navigate to any other options.\n\n
+        Start: This is where the magic happens. Selecting the buttons will now play a song if preloaded. Hit \"Record\" in the menu to start recording your tracks.\n
+        \n\n
+        Recorder: Record your voice or nearby sounds by using your phones mic. Recorded sounds are saved to /sdcard/Custom Soundclips\n\n
+        NOTE\n Moving between Start....Edit can be done through the menu options\n\n
+        All Audio Mashup files generated will be saved to Custom SoundClips.\n\n
+        Author: Jordan Brobyn\n
+	    Contact Info: jordanbrobyn@hotmail.com\n\n
+	    
+	    Please feel free to provide feedback/issues or suggestions to the email above!
+    </string>
+
+    
+    <string name="snip_instructions">引导:\n
+        1. 使用\'浏览\'\n选择一个mp3或者wav文件
+        2. 选择剪切的起始时间和停止时间\n
+        3. (可选) 使用播放按钮试听\n
+        4. 按下 \'保存\' 可以把新片段加进 \'自定义音频剪切\'\n
+   </string>
+    <string name="app_name_edit">Change Sounds (Custom SoundBoard)</string>
+    <string name="app_name_snip">Snip A Song (Custom SoundBoard)</string>
+
+    <string name="start">开始</string>
+    <string name="edit">编辑面板</string>
+    <string name="snipper">剪切MP3</string>
+    <string name="settings">设置</string>
+    <string name="exit">退出</string>
+    <string name="save">保存</string>
+    <string name="Record">录音</string>
+    <string name="load">载入</string>
+    <string name="startM">开始</string>
+    <string name="editM">编辑</string>
+
+    <string name="Button1">Button1</string>
+    <string name="Button2">Button2</string>
+    <string name="Button3">Button3</string>
+    <string name="Button4">Button4</string>
+    <string name="Button5">Button5</string>
+    <string name="Button6">Button6</string>
+    <string name="Button7">Button7</string>
+    <string name="Button8">Button8</string>
+    <string name="Button9">Button9</string>
+    <string name="Button10">Button10</string>
+    <string name="Button11">Button11</string>
+    <string name="Button12">Button12</string>
+    <string name="Button13">Button13</string>
+    <string name="Button14">Button14</string>
+    <string name="Button15">Button15</string>
+    <string name="Button16">Button16</string>
+    <string name="Button17">Button17</string>
+    <string name="Button18">Button18</string>
+    <string name="Button19">Button19</string>
+    <string name="Button20">Button20</string>
+    <string name="Button21">Button21</string>
+    <string name="Button22">Button22</string>
+    <string name="Button23">Button23</string>
+    <string name="Button24">Button24</string>
+    <string name="Button25">Button25</string>
+    <string name="Button26">Button26</string>
+    <string name="Button27">Button27</string>
+    <string name="Button28">Button28</string>
+    <string name="Button29">Button29</string>
+    <string name="Button30">Button30</string>
+    <string name="Button31">Button31</string>
+    <string name="Button32">Button32</string>
+    <string name="Button33">Button33</string>
+    <string name="Button34">Button34</string>
+    <string name="Button35">Button35</string>
+    <string name="Button36">Button36</string>
+    <string name="Button37">Button37</string>
+    <string name="Button38">Button38</string>
+    <string name="Button39">Button39</string>
+
+</resources>

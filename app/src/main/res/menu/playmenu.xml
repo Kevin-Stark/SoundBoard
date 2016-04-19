@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/RecordP"
+        android:icon="@mipmap/mic_w"
+        android:title="@string/Record"></item>
+    <item
+        android:id="@+id/EditM"
+        android:icon="@mipmap/writing"
+        android:titleCondensed="@string/editM"></item>
+
+</menu>
